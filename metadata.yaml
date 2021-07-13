@@ -1,0 +1,23 @@
+_repo: Treve_65777
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Terhune, Albert Payson
+    birthdate: 1872
+    deathdate: 1942
+    gutenberg_agent_id: '891'
+    url: http://www.gutenberg.org/2009/agents/891
+    wikipedia: https://en.wikipedia.org/wiki/Albert_Payson_Terhune
+description: ''
+gutenberg_issued: '2021-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65777'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Treve
+url: http://www.gutenberg.org/ebooks/65777
